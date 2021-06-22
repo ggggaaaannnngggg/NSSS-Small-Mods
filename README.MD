@@ -1,1 +1,1 @@
-A variety of small mods and QoL changes for Not So Seecret Saturday (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2916817-the-not-so-seecret-saturday-mod-for-alpha-1-1-2_01). 
+A variety of small mods for Not So Seecret Saturday (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2916817-the-not-so-seecret-saturday-mod-for-alpha-1-1-2_01). 
